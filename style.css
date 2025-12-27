@@ -1,0 +1,19 @@
+*{
+    background-color:bisque;
+}
+
+h2{
+    background-color: aqua;
+    padding: 15px;
+    border: solid black;
+}
+
+h1{
+    background-color: aqua;
+    padding: 15px;
+    border: solid black;
+}
+
+h3{
+    padding: 8px;
+}
